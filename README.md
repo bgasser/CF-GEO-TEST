@@ -1,4 +1,4 @@
 CF-GEO-TEST
 ===========
 
-Test de Git
+Je test la fonction GIT
